@@ -14,7 +14,7 @@ rename app of Mac <br>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#download">Download</a> •
-  <a href="#purchase">Purchase</a> •
+  <a href="https://renametool.com" target="__blank">Purchase</a> •
   <a href="#contact-us">Contact Us</a>
 </p>
 
