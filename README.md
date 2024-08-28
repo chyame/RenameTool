@@ -15,7 +15,7 @@ rename app of Mac <br>
   <a href="#key-features">Key Features</a> •
   <a href="#download">Download</a> •
   <a href="#purchase">Purchase</a> •
-  <a href="#Email">Contact Us</a>
+  <a href="#contact-us">Contact Us</a>
 </p>
 
 <img src="https://renametool.com/img/amazing-tools-official-renamer-1.jpg" alt="rename tool screenshot" style="border-radius: 20px 20px!important;">
